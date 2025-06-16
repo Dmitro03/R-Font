@@ -1,0 +1,227 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?c25mlj');
+  src:  url('fonts/icomoon.eot?c25mlj#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?c25mlj') format('truetype'),
+    url('fonts/icomoon.woff?c25mlj') format('woff'),
+    url('fonts/icomoon.svg?c25mlj#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrowbottom1:before {
+  content: "\e919";
+  color: #ccc;
+}
+.icon-arrowleft1:before {
+  content: "\e91a";
+  color: #ccc;
+}
+.icon-arrowright1:before {
+  content: "\e91b";
+  color: #ccc;
+}
+.icon-arrowright-11:before {
+  content: "\e91c";
+  color: #ccc;
+}
+.icon-arrowright-21:before {
+  content: "\e91d";
+  color: #ccc;
+}
+.icon-check1:before {
+  content: "\e91e";
+  color: #ccc;
+}
+.icon-cloud1:before {
+  content: "\e91f";
+  color: #ccc;
+}
+.icon-discord1:before {
+  content: "\e920";
+  color: #ccc;
+}
+.icon-drive1:before {
+  content: "\e921";
+  color: #ccc;
+}
+.icon-facebook1:before {
+  content: "\e922";
+  color: #ccc;
+}
+.icon-find1:before {
+  content: "\e923";
+  color: #e7e7e7;
+}
+.icon-froze1:before {
+  content: "\e924";
+  color: #ccc;
+}
+.icon-insta1:before {
+  content: "\e925";
+  color: #ccc;
+}
+.icon-leaf1:before {
+  content: "\e926";
+  color: #ccc;
+}
+.icon-light1:before {
+  content: "\e927";
+}
+.icon-linkedin1:before {
+  content: "\e928";
+  color: #ccc;
+}
+.icon-pen1:before {
+  content: "\e929";
+  color: #ccc;
+}
+.icon-play1:before {
+  content: "\e92a";
+  color: #ccc;
+}
+.icon-qrrowright1:before {
+  content: "\e92b";
+  color: #ccc;
+}
+.icon-settings1:before {
+  content: "\e92c";
+  color: #ccc;
+}
+.icon-ShoppingBag:before {
+  content: "\e92d";
+  color: #fff;
+}
+.icon-stars1:before {
+  content: "\e92e";
+  color: #ccc;
+}
+.icon-SVG1:before {
+  content: "\e92f";
+  color: #ccc;
+}
+.icon-valt1:before {
+  content: "\e930";
+}
+.icon-x1:before {
+  content: "\e931";
+  color: #ccc;
+}
+.icon-youtube1:before {
+  content: "\e932";
+  color: #ccc;
+}
+.icon-find:before {
+  content: "\e918";
+  color: #e7e7e7;
+}
+.icon-arrowbottom:before {
+  content: "\e900";
+  color: #ccc;
+}
+.icon-arrowleft:before {
+  content: "\e901";
+  color: #ccc;
+}
+.icon-arrowright:before {
+  content: "\e902";
+  color: #ccc;
+}
+.icon-arrowright-1:before {
+  content: "\e903";
+  color: #ccc;
+}
+.icon-arrowright-2:before {
+  content: "\e904";
+  color: #ccc;
+}
+.icon-check:before {
+  content: "\e905";
+  color: #ccc;
+}
+.icon-cloud:before {
+  content: "\e906";
+  color: #ccc;
+}
+.icon-discord:before {
+  content: "\e907";
+  color: #ccc;
+}
+.icon-drive:before {
+  content: "\e908";
+  color: #ccc;
+}
+.icon-facebook:before {
+  content: "\e909";
+  color: #ccc;
+}
+.icon-froze:before {
+  content: "\e90a";
+  color: #ccc;
+}
+.icon-insta:before {
+  content: "\e90b";
+  color: #ccc;
+}
+.icon-leaf:before {
+  content: "\e90c";
+  color: #ccc;
+}
+.icon-light:before {
+  content: "\e90d";
+}
+.icon-linkedin:before {
+  content: "\e90e";
+  color: #ccc;
+}
+.icon-pen:before {
+  content: "\e90f";
+  color: #ccc;
+}
+.icon-play:before {
+  content: "\e910";
+  color: #ccc;
+}
+.icon-qrrowright:before {
+  content: "\e911";
+  color: #ccc;
+}
+.icon-settings:before {
+  content: "\e912";
+  color: #ccc;
+}
+.icon-stars:before {
+  content: "\e913";
+  color: #ccc;
+}
+.icon-SVG:before {
+  content: "\e914";
+  color: #ccc;
+}
+.icon-valt:before {
+  content: "\e915";
+}
+.icon-x:before {
+  content: "\e916";
+  color: #ccc;
+}
+.icon-youtube:before {
+  content: "\e917";
+  color: #ccc;
+}
